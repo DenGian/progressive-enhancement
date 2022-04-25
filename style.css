@@ -1,10 +1,17 @@
 body{
     background-color:rgb(255,235,205);
     font-size:20px;
-    color:rgb(51, 0, 51);
+    color:white;
     overflow:hidden;
     font-family:'Times New Roman', Times, serif;
     letter-spacing:1px;
+    width:90%;
+    margin:auto;
+    background-image: url('./images/image2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right bottom;
+    min-height:100vh;
     }
     h1{
         text-align:center;
@@ -30,4 +37,18 @@ body{
     .good{
         color:green;
     }
-    
+    .one{
+        color:white;
+    }
+    .two{
+        color:white;
+    }
+    .three{
+        color:white;
+    }
+    q{
+        font-style:italic;
+    }
+    p{
+        line-height:0.3em;
+    }
