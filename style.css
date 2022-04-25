@@ -1,6 +1,6 @@
 body{
     background-color:rgb(255,235,205);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 
     }
     h1{
         text-align:center;
@@ -20,3 +20,10 @@ body{
     footer{
         text-align:center;
     }
+    .bad{
+        color:red;
+    }
+    .good{
+        color:green;
+    }
+    
