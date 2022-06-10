@@ -153,7 +153,7 @@ Back to your html version of the Chinese farmer :
 
 All tags are rendered visually as a "block". This is called the [box model](https://www.w3schools.com/css/css_boxmodel.asp).  Each block includes margin, padding border properties.
 
-![The block](./Images/css-block.png)
+![The block](./images/css-block.png)
 
 You can control the dimensions and spacing of this block:
 
@@ -223,7 +223,7 @@ Each html block has a "display" property which is either: `display: inline | inl
 
 If you add a `float: left | right;` it will take whatever you applied it to outside of the normal rendering flow and put it as far left or right as possible, but respecting the margin.
 
-![Float explained](./Images/float.png)
+![Float explained](./images/float.png)
 
 More info on float: https://developer.mozilla.org/en-US/docs/Web/CSS/float
 
